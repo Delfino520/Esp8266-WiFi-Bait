@@ -4,7 +4,6 @@ Welcome to the Esp8266-WiFi-Bait wiki!
 
 WiFi Bait is a firmware for Esp8266, whose function is similar with wifiphisher. Esp8266 with this firmware creates a fake wireless network that looks similar to a legitimate network, and all the devices connected to the wireless network be disconnected. when people connect to the fake wireless network, then the fake webpage will pop up and request all the people to input wifi password. After people input wifi password, WiFi Bait will compare it with handshake captured, if the password is right then the attack will be ceased, people can reconnect to the real WIFI, and the fake WIFI will be disappear. After that we can log in the backend to check the wifi password.
 
-Enjoy it!
 
 
 2. Installation
