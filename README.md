@@ -28,9 +28,9 @@ this:
 * Extract flash_download_tools_v3.6.5 and open it, and click
 ESP8266 DownloadTool
 
-![](http://image.3001.net/images/20170926/15063566169652.png!small)
+![](https://github.com/Delfino520/Pictures/blob/master/15063566169652.png)
 
-![](http://image.3001.net/images/20170926/15063567062317.png!small)
+![](https://github.com/Delfino520/Pictures/blob/master/15063567062317.png)
 
 All the configuration please refer to the image above:
 
@@ -94,7 +94,7 @@ Click tools and check the configuration, just follow the configuration
 in the picture, except Port (choose port according to your real
 situation) and development board (you should choose base on the
 type of your development board)
-![](http://image.3001.net/images/20170926/15063571576506.png!small)
+![](https://github.com/Delfino520/Pictures/blob/master/15063571576506.png)
 
 5). After that, please click upload button, it is starting uploading the
 webpages and wait about 1 minute when the led light does not
@@ -102,7 +102,7 @@ twinkle, it means the firmware has been uploaded.
 
 6). Connect to HH wifi SSID and input 192.168.1.1/backdoor.html to your
 browser address bar (wifi password is : m1234567), then you will see the backend
-![](http://image.3001.net/images/20170926/15063572156097.png!small)
+![](https://github.com/Delfino520/Pictures/blob/master/BaiduShurufa_2018-10-16_21-31-57.png)
 
 So far the firmware has been upload to esp8266 successfully
 
