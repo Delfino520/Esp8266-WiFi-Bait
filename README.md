@@ -18,7 +18,7 @@ MicroUSB port, like this one below:
 2). Upload the WIFI BAIT firmware to ESP8266
 * Install dirver for your ESP8266 (CH341SER.zip, i have uploaded on Github for you guys to use)
 * You need flash_download_tools_v3.6.5 and WIFI BAIT firmware,
-which I have attach it here
+which I have included in the 'Compiled WIFI BAIT' folder
 * Plug in your ESP8266 into your computer with windows system
 and go to device manager checking serial ports of ESP8266, like
 this:
@@ -57,14 +57,14 @@ coming from ESP8226, if this HH wifi do not show up, then please press
 reset button and wait a few second, it will be appear, now you can
 connect to HH, wifi password is : m1234567
 
-Remark: if the HH wifi does not appear eventually, then please erase it
+Remark: if the HH wifi SSID does not appear eventually, then please erase it
 and upload the firmware again.
 
 
 
 3). Upload webpages to esp8266 using Arduino
 You need webpages and webpage upload tools, which I have
-attached here
+included in 'Compiled WIFI BAIT' folder.
 
 * go to File -> Preferences add the URLs in Additional Boards
 Manager URLs
@@ -100,7 +100,7 @@ type of your development board)
 webpages and wait about 1 minute when the led light does not
 twinkle, it means the firmware has been uploaded.
 
-6). Connect to HH wifi SSID and input 192.168.1.1/backdoor.html to your
+6). Connect to wifi SSID:HH and input 192.168.1.1/backdoor.html to your
 browser address bar (wifi password is : m1234567), then you will see the backend
 ![](http://image.3001.net/images/20170926/15063572156097.png!small)
 
