@@ -1,4 +1,4 @@
-Welcome to the Esp8266-WiFi-Bait wiki!
+
 
 1. Introduction
 
