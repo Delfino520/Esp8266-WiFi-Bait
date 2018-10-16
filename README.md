@@ -1,22 +1,22 @@
+Welcome to the Esp8266-WiFi-Bait wiki!
+
 1. Introduction
 
 WiFi Bait is a firmware for Esp8266, whose function is similar with wifiphisher. Esp8266 with this firmware creates a fake wireless network that looks similar to a legitimate network, and all the devices connected to the wireless network be disconnected. when people connect to the fake wireless network, then the fake webpage will pop up and request all the people to input wifi password. After people input wifi password, WiFi Bait will compare it with handshake captured, if the password is right then the attack will be ceased, people can reconnect to the real WIFI, and the fake WIFI will be disappear. After that we can log in the backend to check the wifi password.
 
 Enjoy it!
 
-Welcome to the Esp8266-WiFi-Bait wiki!
-
 
 2. Installation
 
 How to make a WIFI BAIT with ESP8266?
 
-1. First of all you need one piece of ESP8266 development board with
+1). First of all you need one piece of ESP8266 development board with
 MicroUSB port, like this one below:
 
 ![](http://image.3001.net/images/20170926/15063564774943.jpg!small)
 
-2. Upload the WIFI BAIT firmware to ESP8266
+2). Upload the WIFI BAIT firmware to ESP8266
 * You need flash_download_tools_v3.6.5 and WIFI BAIT firmware,
 which I have attach it here
 * Plug in your ESP8266 into your computer with windows system
@@ -62,7 +62,7 @@ and upload the firmware again.
 
 
 
-3. Upload webpages to esp8266 using Arduino
+3). Upload webpages to esp8266 using Arduino
 You need webpages and webpage upload tools, which I have
 attached here
 
@@ -89,18 +89,18 @@ folder you just create. copy all the files in webpages\data you
 downloaded and paste into the empty data under your project
 folder.
 
-4. Go back to Arduino
+4). Go back to Arduino
 Click tools and check the configuration, just follow the configuration
 in the picture, except Port (choose port according to your real
 situation) and development board (you should choose base on the
 type of your development board)
 ![](http://image.3001.net/images/20170926/15063571576506.png!small)
 
-5. After that, please click upload button, it is starting uploading the
+5). After that, please click upload button, it is starting uploading the
 webpages and wait about 1 minute when the led light does not
 twinkle, it means the firmware has been uploaded.
 
-6. Connect to HH wifi SSID and input 192.168.1.1/backdoor.html to your
+6). Connect to HH wifi SSID and input 192.168.1.1/backdoor.html to your
 browser address bar (wifi password is : m1234567), then you will see the backend
 ![](http://image.3001.net/images/20170926/15063572156097.png!small)
 
@@ -138,4 +138,5 @@ If you decide to improve this project, i strongly recommend you to combine the w
 
 
 5. Disclaimer
+
 Usage of Wifiphisher for attacking infrastructures without prior mutual consistency can be considered as an illegal activity. It is the final user's responsibility to obey all applicable local, state and federal laws. Authors assume no liability and are not responsible for any misuse or damage caused by this program.
