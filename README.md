@@ -16,7 +16,7 @@ MicroUSB port, like this one below:
 ![](http://image.3001.net/images/20170926/15063564774943.jpg!small)
 
 2). Upload the WIFI BAIT firmware to ESP8266
-* Install dirver for your ESP8266 (CH341SER.zip,i have uploaded on Github for you guys to use)
+* Install dirver for your ESP8266 (CH341SER.zip, i have uploaded on Github for you guys to use)
 * You need flash_download_tools_v3.6.5 and WIFI BAIT firmware,
 which I have attach it here
 * Plug in your ESP8266 into your computer with windows system
