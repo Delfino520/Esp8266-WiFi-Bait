@@ -102,6 +102,7 @@ twinkle, it means the firmware has been uploaded.
 
 6). Connect to HH wifi SSID and input 192.168.1.1/backdoor.html to your
 browser address bar (wifi password is : m1234567), then you will see the backend
+
 ![](https://github.com/Delfino520/Pictures/blob/master/BaiduShurufa_2018-10-16_21-31-57.png)
 
 So far the firmware has been upload to esp8266 successfully
