@@ -94,6 +94,7 @@ Click tools and check the configuration, just follow the configuration
 in the picture, except Port (choose port according to your real
 situation) and development board (you should choose base on the
 type of your development board)
+
 ![](https://github.com/Delfino520/Pictures/blob/master/15063571576506.png)
 
 5). After that, please click upload button, it is starting uploading the
