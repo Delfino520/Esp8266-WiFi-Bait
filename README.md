@@ -68,8 +68,7 @@ attached here
 
 * go to File -> Preferences add the URLs in Additional Boards
 Manager URLs
-http://arduino.esp8266.com/stable/package_esp8266com_index.j
-son
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 * Go to Tools -> Board -> Boards Manager, search "esp8266" and
 install esp8266 version 2.0.0 (please pay attention, you have to 
